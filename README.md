@@ -1,2 +1,3 @@
 # Simon-Says-Game
-A sequence guessing game based on HTML, CSS and JavaScript
+
+A simple sequence-remembering game with a simple user-friendly interface based on HTML, CSS and JavaScript
