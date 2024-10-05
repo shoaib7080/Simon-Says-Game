@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+}
+
+.bnt{
+    height: 80px;
+    width: 80px;
+    border: 3px solid black;
+    border-radius: 1rem;
+    margin: 2rem;  
+}
+
+.btn-cont{
+    display: flex;
+    justify-content: center;
+}
+.red{
+    background-color: #d95980;
+}
+.gre{
+    background-color: #5cfa91;
+}
+.blu{
+    background-color: #8180e8;
+}
+.yel{
+    background-color: #f99b45;
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: green;
+}
