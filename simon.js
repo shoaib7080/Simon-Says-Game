@@ -57,7 +57,7 @@ function matchAns(idx) {
     scores.push(score);
     document.querySelector("body").style.background = "red";
     setTimeout(() => {
-      document.querySelector("body").style.background = "white";
+      document.querySelector("body").style.background = "	#080808";
     }, 150);
     reset();
   }
